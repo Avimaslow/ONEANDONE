@@ -34,13 +34,7 @@ Need to find a restroom near you? Look no more, that's what 1&amp;Done is for
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For support or inquiries, please contact us at ONEANDONESupport@gmail.com.
 
 ---
 
